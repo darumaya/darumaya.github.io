@@ -1528,26 +1528,6 @@ a.thumbnail.banner-related:active .caption
 }
 
 
-/* 以下、2024年11月14日八木追記 */
-.fixed_banner {
-    position: fixed; /* 追従させる為にfixedの値を記述します */
-    z-index: 99999; /* 他の要素の下に隠れないように全面配置させます */
-    top: 150px; /* 上から150pxのところにバナーを配置します */
-    right: 40px; /* 右から40pxのところにバナーを配置します */
-}
-
-.fixed_banner_pc {
-    width: 300px; /* バナーの横幅を指定してあげます */
-}
-
-.floating-banner:hover {
-    opacity: .8; /* マウスが重なった時に少し透過させます */
-}
-
-.fixed_banner_sp {
-    display: none; /* PCではスマホ用のバナーは非表示にします */
-}
-
 
 @media screen and (max-width: 480px) { /* メディアクエリを使ってスマホ用のブレイクポイントを指定 */
 
@@ -1556,4 +1536,18 @@ a.thumbnail.banner-related:active .caption
         width: 100vw; /* スマホの画面幅いっぱいにバナーを表示させます */
     }
 
+}
+
+/* 以下、2025年3月23日　ブログデザイン用に追記 */
+.d--marker1 {
+    background: linear-gradient(transparent 60%, #f4e573 60%);
+    background-image: linear-gradient(transparent 60%, rgb(244, 229, 115) 60%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
 }
