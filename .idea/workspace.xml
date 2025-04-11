@@ -4,56 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
+    <list default="true" id="e3c68163-5fe1-4d0a-880d-978f648a090a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/coat.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/coat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/furisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/furisode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/kodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/kodomo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/komon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/muji.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/muji.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/otoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/otoko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/sawayaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/sawayaka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/tsukesage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/tsumugi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/yukata.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/yukata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/araiharitaiken.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/araiharitaiken.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/kanshasai.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/kanshasai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/kimonodeodekake.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/kimonodeodekake.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/tenjikai.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/tenjikai.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/customerfeedback.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/furusato.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/furusato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/requestmethod.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/requestmethod.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/araihari.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/araihari.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/fee.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/fee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/mon.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/mon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/shiminuki.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/shiminuki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/shitate.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/shitate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/some.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/some.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maintenance/yunoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/yunoshi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/furisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/furisode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/shitatenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/shitatenaoshi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/somenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/somenaoshi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/tocoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tocoat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/tohikifurisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tohikifurisode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/tojuban.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tojuban.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/tokodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tokodomo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/tonoren.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tonoren.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/toobi.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/toobi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revival/toumbrella.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/toumbrella.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shitatenaoshi_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/shitatenaoshi_test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +208,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="" />
+      <changelist id="e3c68163-5fe1-4d0a-880d-978f648a090a" name="Changes" comment="" />
       <created>1545007555371</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -462,6 +416,7 @@
       <workItem from="1741054979493" duration="1578000" />
       <workItem from="1742522497485" duration="1494000" />
       <workItem from="1742716238853" duration="16324000" />
+      <workItem from="1744097408957" duration="4097000" />
     </task>
     <servers />
   </component>
