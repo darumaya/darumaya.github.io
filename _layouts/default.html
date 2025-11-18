@@ -48,8 +48,34 @@
 <script src="/js/Imager.js"></script>
 <script src="/js/script.js"></script>
 <script src="/js/ekko-lightbox.js"></script>
+
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SJV2HBS632"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1041073051"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-1041073051');
+</script>
+
+<!-- Event snippet for LINE友だち追加 conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+    function gtag_report_conversion(url) {
+        var callback = function () {
+            if (typeof(url) != 'undefined') {
+                window.location = url;
+            }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-1041073051/iHDCCOGggsIbEJuHtvAD',
+            'event_callback': callback
+        });
+        return false;
+    }
+</script>
+
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
